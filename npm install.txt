@@ -1,0 +1,8 @@
+npm install vue-router
+npm i axios vform
+npm i laravel-mix
+npm install laravel-vue-pagination
+npm install ckeditor4-vue
+npm i select2
+npm install vue-csv-import --save
+npm install vue-multiselect --save
